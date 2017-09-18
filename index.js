@@ -11,7 +11,13 @@ module.exports = { name, height
 
 if (name === "Susan") {
     console.log("The name is correct")
-} else {
+    }
+else if  name !== "Susan") {
+    console.log("The name not correct")
+    }
+
+
+ else {
     var name = "Susan"
   }
   if (name === "Susan") {
