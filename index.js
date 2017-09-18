@@ -21,7 +21,7 @@ else {
 
 
 if (name === "Susan") {
-      console.log("The name is correct")
+      console.log("The name is now correct")
   } else {
     console.log("I give up!")
   }
