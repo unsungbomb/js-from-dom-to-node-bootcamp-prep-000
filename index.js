@@ -14,10 +14,11 @@ if (name === "Susan") {
     }
 
 else {
+    console.log("Wrong Name Bucko")
     var name = "Susan"
   }
 
-  { break; }
+
 
 if (name === "Susan") {
       console.log("The name is correct")
