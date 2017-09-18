@@ -15,7 +15,9 @@ if (name === "Susan") {
 
 else {
     var name = "Susan"
-  }{ break; }
+  }
+
+  { break; }
 
 if (name === "Susan") {
       console.log("The name is correct")
